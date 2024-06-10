@@ -20,7 +20,7 @@ export default function SSRDemo(props) {
 }
 
 export async function getServerSideProps() {
-	const ThoughtList = ['"You have to dream before your dreams can come true." – A.P.J Abdul Kalam', 
+	const ThoughtList = ['"You have to dream before your dreams can come tru." – A.P.J Abdul Kalam', 
 						'"Life should be great rather than long." – B.R. Ambedkar',
 						'“Education is the most powerful weapon which you can use to change the world.” - Nelson Mandela',
 						'“Every champion was once a contender that didn’t give up.” ― Gabby Douglas',
